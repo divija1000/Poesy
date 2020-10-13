@@ -1,0 +1,72 @@
+
+body{
+  font-family: 'Montserrat';
+}
+
+.top{
+  font-size: 50px;
+  font-family: 'Homemade Apple', cursive;
+  background-color: #dbc6eb;
+  text-align: center;
+  padding: 3% 15% 7%;
+}
+.poesy{
+  padding: 3% 7%;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
+  background-color: #654062;
+  color: #fff;
+}
+
+#title{
+  background-color: #654062;
+  font-size: 30px;
+  font-family: 'Homemade Apple', cursive;
+}
+.container-fluid{
+   padding: 3% 15% 7%;
+}
+
+#testimonials{
+  padding: 3% 7%;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
+  background-color: #dbc6eb;
+  color: black;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 3% 7%;
+}
+
+.colour{
+  background-color:#654062;
+
+}
+.str{
+  padding: 2% 2% ;
+  background-color:  #f4efd3 ;
+
+  display: block;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 27%;
+}
+.gap{
+  padding: 15%;
+}
+
+.fg{
+  padding: 5%;
+}
+
+#footer{
+  padding: 100px;
+  text-align: center;
+  background-color: #dbc6eb;
+}
